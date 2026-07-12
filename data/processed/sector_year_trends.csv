@@ -1,0 +1,319 @@
+funding_year,sector,total_funding,deal_count
+1960.0,Biotech / Healthcare,50075000.0,2
+1960.0,Gaming / Media,0.0,1
+1960.0,Internet / Web,0.0,2
+1960.0,Other,0.0,1
+1960.0,SaaS / Software,2661030.0,3
+1973.0,Cybersecurity,0.0,1
+1974.0,Other,0.0,1
+1974.0,Professional Services,0.0,1
+1984.0,Cybersecurity,0.0,1
+1984.0,Internet / Web,41000.0,1
+1984.0,Mobile / Telecom,100000.0,1
+1985.0,Other,0.0,1
+1987.0,Internet / Web,2500000.0,1
+1987.0,Other,0.0,1
+1989.0,SaaS / Software,15000.0,1
+1990.0,Professional Services,1000000.0,1
+1992.0,Other,2000000.0,1
+1993.0,Professional Services,125000.0,2
+1994.0,Advertising / Marketing,400000.0,1
+1994.0,Other,13000000.0,1
+1995.0,E-Commerce,8000000.0,1
+1995.0,Hardware / Electronics,0.0,1
+1995.0,Internet / Web,8800000.0,3
+1995.0,Professional Services,500000.0,1
+1995.0,SaaS / Software,0.0,1
+1996.0,E-Commerce,0.0,1
+1996.0,Internet / Web,9600000.0,3
+1996.0,Other,3930000.0,2
+1996.0,SaaS / Software,12500.0,1
+1997.0,Advertising / Marketing,41000000.0,1
+1997.0,Cybersecurity,2000000.0,1
+1997.0,Internet / Web,15000000.0,3
+1997.0,Other,2520000.0,2
+1997.0,Professional Services,100000.0,1
+1997.0,SaaS / Software,4000000.0,1
+1998.0,Advertising / Marketing,0.0,3
+1998.0,Cybersecurity,0.0,1
+1998.0,E-Commerce,82336990.0,4
+1998.0,Gaming / Media,0.0,1
+1998.0,Hardware / Electronics,15800000.0,1
+1998.0,Internet / Web,50202000.0,7
+1998.0,Other,4700000.0,6
+1998.0,Professional Services,100000.0,1
+1998.0,SaaS / Software,0.0,4
+1999.0,Advertising / Marketing,69513200.0,5
+1999.0,Biotech / Healthcare,9736101.0,2
+1999.0,CleanTech / Energy,15352300.0,1
+1999.0,Cybersecurity,3100048.0,3
+1999.0,E-Commerce,112272680.0,8
+1999.0,Fintech,7000000.0,3
+1999.0,Gaming / Media,30000000.0,1
+1999.0,Hardware / Electronics,1800000.0,3
+1999.0,Internet / Web,215164000.0,20
+1999.0,Mobile / Telecom,15500000.0,6
+1999.0,Other,12708053.0,6
+1999.0,Professional Services,115200.0,1
+1999.0,SaaS / Software,71676789.0,16
+2000.0,Advertising / Marketing,89587600.0,11
+2000.0,Biotech / Healthcare,15000000.0,2
+2000.0,Cybersecurity,18211701.0,3
+2000.0,E-Commerce,65268800.0,13
+2000.0,Fintech,100000000.0,1
+2000.0,Gaming / Media,42183943.0,7
+2000.0,Hardware / Electronics,89166284.0,6
+2000.0,Internet / Web,389307000.0,31
+2000.0,Mobile / Telecom,58000000.0,7
+2000.0,Other,116312389.0,10
+2000.0,Professional Services,45750000.0,5
+2000.0,SaaS / Software,405900973.0,27
+2000.0,Travel / Hospitality,1000000.0,1
+2001.0,Advertising / Marketing,27767120.0,5
+2001.0,Biotech / Healthcare,79954102.0,3
+2001.0,E-Commerce,345000.0,3
+2001.0,Fintech,91674900.0,2
+2001.0,Gaming / Media,72828622.0,7
+2001.0,Hardware / Electronics,44874927.0,5
+2001.0,Internet / Web,253200000.0,24
+2001.0,Mobile / Telecom,82891364.0,7
+2001.0,Other,62424030.0,14
+2001.0,Professional Services,20024900.0,6
+2001.0,SaaS / Software,97855771.0,18
+2002.0,Advertising / Marketing,292452000.0,12
+2002.0,Biotech / Healthcare,26096631.0,5
+2002.0,CleanTech / Energy,6000000.0,2
+2002.0,Cybersecurity,0.0,1
+2002.0,E-Commerce,469543.0,1
+2002.0,Gaming / Media,10225000.0,4
+2002.0,Hardware / Electronics,89844951.0,6
+2002.0,Internet / Web,96645650.0,19
+2002.0,Logistics / Transport,4704370.0,1
+2002.0,Mobile / Telecom,77853932.0,12
+2002.0,Other,121948701.0,15
+2002.0,Professional Services,21813370.0,5
+2002.0,SaaS / Software,159444575.0,32
+2003.0,Advertising / Marketing,41000000.0,6
+2003.0,Biotech / Healthcare,108039498.0,13
+2003.0,CleanTech / Energy,5987940.0,3
+2003.0,Cybersecurity,4500000.0,2
+2003.0,E-Commerce,85392200.0,7
+2003.0,EdTech,0.0,1
+2003.0,Fintech,6292200.0,1
+2003.0,Gaming / Media,38573810.0,7
+2003.0,Hardware / Electronics,64156040.0,14
+2003.0,Internet / Web,137764740.0,27
+2003.0,Mobile / Telecom,121529041.0,15
+2003.0,Other,25086349.0,9
+2003.0,Professional Services,29385000.0,7
+2003.0,SaaS / Software,235210101.0,40
+2003.0,Travel / Hospitality,2000000.0,2
+2004.0,Advertising / Marketing,90543600.0,18
+2004.0,Biotech / Healthcare,292952084.0,26
+2004.0,CleanTech / Energy,28058000.0,6
+2004.0,Cybersecurity,32750000.0,5
+2004.0,E-Commerce,73649076.0,12
+2004.0,Fintech,0.0,1
+2004.0,Gaming / Media,129195477.0,19
+2004.0,Hardware / Electronics,262302584.0,21
+2004.0,Internet / Web,514728397.0,64
+2004.0,Logistics / Transport,7500000.0,1
+2004.0,Mobile / Telecom,164953340.0,21
+2004.0,News / Publishing,3000000.0,1
+2004.0,Other,198806502.0,28
+2004.0,Professional Services,77866643.0,5
+2004.0,SaaS / Software,323675160.0,58
+2005.0,Advertising / Marketing,1361372747.0,146
+2005.0,Biotech / Healthcare,1741063587.0,164
+2005.0,CleanTech / Energy,170697194.0,17
+2005.0,Cybersecurity,474240000.0,36
+2005.0,E-Commerce,154808621.0,29
+2005.0,EdTech,751000.0,3
+2005.0,Fintech,25722600.0,6
+2005.0,Gaming / Media,261272257.0,43
+2005.0,Hardware / Electronics,2234999357.0,203
+2005.0,Internet / Web,2224088730.0,167
+2005.0,Logistics / Transport,24507970.0,5
+2005.0,Mobile / Telecom,1131308075.0,116
+2005.0,News / Publishing,25020552.0,6
+2005.0,Other,822277715.0,147
+2005.0,Professional Services,72756746.0,14
+2005.0,PropTech / Real Estate,32770000.0,2
+2005.0,SaaS / Software,4081166259.0,515
+2005.0,Travel / Hospitality,49000000.0,1
+2006.0,Advertising / Marketing,1529430891.0,213
+2006.0,Biotech / Healthcare,2823116692.0,227
+2006.0,CleanTech / Energy,403960684.0,33
+2006.0,Cybersecurity,496835000.0,52
+2006.0,E-Commerce,346216662.0,64
+2006.0,EdTech,23250000.0,4
+2006.0,Fintech,91595530.0,17
+2006.0,Gaming / Media,868353656.0,106
+2006.0,Government / Non-profit,150000.0,1
+2006.0,Hardware / Electronics,2441699364.0,202
+2006.0,Internet / Web,2017499375.0,329
+2006.0,Logistics / Transport,199266455.0,10
+2006.0,Mobile / Telecom,1800613069.0,154
+2006.0,News / Publishing,283186068.0,11
+2006.0,Other,1778251907.0,254
+2006.0,Professional Services,54670000.0,12
+2006.0,PropTech / Real Estate,34250000.0,3
+2006.0,SaaS / Software,4893622469.0,700
+2006.0,Sports / Fitness,0.0,1
+2006.0,Travel / Hospitality,241000000.0,7
+2007.0,Advertising / Marketing,2108155970.0,267
+2007.0,Biotech / Healthcare,4585994474.0,339
+2007.0,CleanTech / Energy,2063239106.0,95
+2007.0,Cybersecurity,416420800.0,54
+2007.0,E-Commerce,869134231.0,102
+2007.0,EdTech,10700000.0,5
+2007.0,Fintech,120156550.0,27
+2007.0,Gaming / Media,2268730412.0,239
+2007.0,Government / Non-profit,2350000.0,1
+2007.0,Hardware / Electronics,2656208061.0,248
+2007.0,Internet / Web,3676118018.0,640
+2007.0,Local Services,18500000.0,1
+2007.0,Logistics / Transport,162758312.0,6
+2007.0,Mobile / Telecom,1786718113.0,204
+2007.0,News / Publishing,222802779.0,14
+2007.0,Other,1688367208.0,169
+2007.0,Professional Services,422738000.0,38
+2007.0,PropTech / Real Estate,65100000.0,6
+2007.0,SaaS / Software,5546492773.0,750
+2007.0,Sports / Fitness,3600000.0,5
+2007.0,Travel / Hospitality,19573709.0,8
+2008.0,Advertising / Marketing,2184909355.0,311
+2008.0,Biotech / Healthcare,3538641477.0,257
+2008.0,CleanTech / Energy,6595385633.0,336
+2008.0,Cybersecurity,465367575.0,50
+2008.0,E-Commerce,1105840482.0,158
+2008.0,EdTech,74540000.0,22
+2008.0,Fintech,149131662.0,27
+2008.0,Gaming / Media,1946258948.0,286
+2008.0,Government / Non-profit,8200000.0,4
+2008.0,Hardware / Electronics,2980284340.0,211
+2008.0,Internet / Web,5365860134.0,765
+2008.0,Local Services,0.0,1
+2008.0,Logistics / Transport,297391320.0,17
+2008.0,Mobile / Telecom,6039523736.0,279
+2008.0,News / Publishing,201064492.0,17
+2008.0,Other,1026010804.0,133
+2008.0,Professional Services,211171158.0,35
+2008.0,PropTech / Real Estate,33750000.0,5
+2008.0,SaaS / Software,5566785243.0,794
+2008.0,Sports / Fitness,18700000.0,4
+2008.0,Travel / Hospitality,403847195.0,19
+2009.0,Advertising / Marketing,2586863978.0,380
+2009.0,Biotech / Healthcare,8563430458.0,557
+2009.0,CleanTech / Energy,3983960205.0,225
+2009.0,Cybersecurity,581277043.0,64
+2009.0,Design / Creative,730110.0,3
+2009.0,E-Commerce,679886518.0,163
+2009.0,EdTech,248704173.0,37
+2009.0,Fintech,362291795.0,58
+2009.0,Gaming / Media,1314907761.0,263
+2009.0,Government / Non-profit,10205740.0,8
+2009.0,Hardware / Electronics,3801452420.0,308
+2009.0,Internet / Web,2377910924.0,606
+2009.0,Local Services,0.0,1
+2009.0,Logistics / Transport,1510305218.0,26
+2009.0,Mobile / Telecom,4162624724.0,296
+2009.0,News / Publishing,521804738.0,31
+2009.0,Other,228820764.0,100
+2009.0,Professional Services,324437805.0,55
+2009.0,PropTech / Real Estate,38339690.0,15
+2009.0,SaaS / Software,4217370000.0,859
+2009.0,Sports / Fitness,17986999.0,11
+2009.0,Travel / Hospitality,108316216.0,35
+2010.0,Advertising / Marketing,2297255661.0,516
+2010.0,Biotech / Healthcare,11887611331.0,1080
+2010.0,CleanTech / Energy,6771191056.0,287
+2010.0,Consumer Products,12910327.0,2
+2010.0,Cybersecurity,956899003.0,81
+2010.0,Design / Creative,8274155.0,12
+2010.0,E-Commerce,1940205838.0,333
+2010.0,EdTech,436064814.0,85
+2010.0,Fintech,1371397573.0,134
+2010.0,Gaming / Media,2213563912.0,349
+2010.0,Government / Non-profit,45896500.0,20
+2010.0,Hardware / Electronics,4053900962.0,420
+2010.0,Internet / Web,3659459219.0,731
+2010.0,Local Services,1300000.0,3
+2010.0,Logistics / Transport,692319989.0,47
+2010.0,Mobile / Telecom,2376683193.0,456
+2010.0,News / Publishing,497581999.0,76
+2010.0,Other,777866937.0,121
+2010.0,Professional Services,315886757.0,67
+2010.0,PropTech / Real Estate,42326359.0,24
+2010.0,SaaS / Software,7482156040.0,1222
+2010.0,Sports / Fitness,47007440.0,33
+2010.0,Travel / Hospitality,233103782.0,86
+2011.0,Advertising / Marketing,3626158178.0,711
+2011.0,Biotech / Healthcare,15807602271.0,1809
+2011.0,CleanTech / Energy,6505719971.0,354
+2011.0,Consumer Products,41862751.0,11
+2011.0,Cybersecurity,818657419.0,108
+2011.0,Design / Creative,14833197.0,13
+2011.0,E-Commerce,4570415338.0,528
+2011.0,EdTech,370590990.0,135
+2011.0,Fintech,1449961393.0,207
+2011.0,Gaming / Media,3309386658.0,456
+2011.0,Government / Non-profit,90705476.0,33
+2011.0,Hardware / Electronics,4857711390.0,556
+2011.0,Internet / Web,7680917853.0,1036
+2011.0,Local Services,25736363.0,8
+2011.0,Logistics / Transport,754791193.0,60
+2011.0,Mobile / Telecom,3220066903.0,706
+2011.0,News / Publishing,340810207.0,81
+2011.0,Other,2352265525.0,280
+2011.0,Professional Services,512629756.0,91
+2011.0,PropTech / Real Estate,192938891.0,35
+2011.0,SaaS / Software,8056867352.0,1708
+2011.0,Sports / Fitness,50521285.0,41
+2011.0,Travel / Hospitality,884746263.0,183
+2012.0,Advertising / Marketing,3612645867.0,827
+2012.0,Biotech / Healthcare,14165709433.0,1818
+2012.0,CleanTech / Energy,5333993903.0,293
+2012.0,Consumer Products,24889879.0,8
+2012.0,Cybersecurity,1282997503.0,128
+2012.0,Design / Creative,77809530.0,20
+2012.0,E-Commerce,4455984247.0,636
+2012.0,EdTech,740322775.0,229
+2012.0,Fintech,845520465.0,179
+2012.0,Gaming / Media,2102132112.0,456
+2012.0,Government / Non-profit,309987039.0,40
+2012.0,Hardware / Electronics,5246197779.0,558
+2012.0,Internet / Web,4933640263.0,1093
+2012.0,Local Services,19791439.0,16
+2012.0,Logistics / Transport,670820282.0,69
+2012.0,Mobile / Telecom,7218391474.0,911
+2012.0,News / Publishing,196418570.0,61
+2012.0,Other,1802219767.0,357
+2012.0,Professional Services,221285205.0,66
+2012.0,PropTech / Real Estate,199767188.0,48
+2012.0,SaaS / Software,9442080990.0,1874
+2012.0,Sports / Fitness,82357034.0,53
+2012.0,Travel / Hospitality,874973265.0,189
+2013.0,Advertising / Marketing,5334574773.0,764
+2013.0,Biotech / Healthcare,24551525712.0,2024
+2013.0,CleanTech / Energy,6750297606.0,305
+2013.0,Consumer Products,34344799.0,17
+2013.0,Cybersecurity,1565896388.0,163
+2013.0,Design / Creative,84731377.0,37
+2013.0,E-Commerce,6151271291.0,808
+2013.0,EdTech,2043594811.0,302
+2013.0,Fintech,2758323170.0,253
+2013.0,Gaming / Media,2816725633.0,465
+2013.0,Government / Non-profit,215269557.0,55
+2013.0,Hardware / Electronics,5217265973.0,608
+2013.0,Internet / Web,6821969791.0,1072
+2013.0,Local Services,290335207.0,21
+2013.0,Logistics / Transport,958263664.0,89
+2013.0,Mobile / Telecom,3647068601.0,855
+2013.0,News / Publishing,888036821.0,68
+2013.0,Other,3140956829.0,553
+2013.0,Professional Services,614941573.0,124
+2013.0,PropTech / Real Estate,1051442647.0,84
+2013.0,SaaS / Software,12477473119.0,2080
+2013.0,Sports / Fitness,42533229.0,32
+2013.0,Travel / Hospitality,2243085240.0,248

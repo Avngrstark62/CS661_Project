@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+
+# LaTeX build artifacts (keep .tex and the compiled PDF in deliverables/)
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+proposal/*.aux
+proposal/*.log
+proposal/*.out
+
+# Node build deps for the slide deck (rebuildable via build_deck.js)
+deliverables/presentation/build/node_modules/
+deliverables/presentation/build/package*.json
+
+# Large raw data — regenerate via data/download_data.py, then preprocessing/clean.py
+# (comment the next line out if you intend to commit the raw CSVs)
+data/raw/
+
+# Playwright / test scratch
+.pytest_cache/

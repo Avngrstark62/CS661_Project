@@ -1,0 +1,469 @@
+investor_name,sector,deal_count,total_invested
+Accel Partners,Advertising / Marketing,47,649201100.0
+Accel Partners,Biotech / Healthcare,10,82800000.0
+Accel Partners,CleanTech / Energy,4,183000000.0
+Accel Partners,Cybersecurity,15,385500000.0
+Accel Partners,E-Commerce,48,972602970.0
+Accel Partners,EdTech,10,163500000.0
+Accel Partners,Fintech,15,214430000.0
+Accel Partners,Gaming / Media,35,923806400.0
+Accel Partners,Hardware / Electronics,9,211000000.0
+Accel Partners,Internet / Web,81,1694676000.0
+Accel Partners,Logistics / Transport,2,4000000.0
+Accel Partners,Mobile / Telecom,45,1276235000.0
+Accel Partners,News / Publishing,8,61000000.0
+Accel Partners,Other,6,103541000.0
+Accel Partners,PropTech / Real Estate,1,7500000.0
+Accel Partners,SaaS / Software,133,2321619929.0
+Accel Partners,Travel / Hospitality,7,137100000.0
+Andreessen Horowitz,Advertising / Marketing,23,167500100.0
+Andreessen Horowitz,Biotech / Healthcare,4,12350000.0
+Andreessen Horowitz,Consumer Products,2,1000000.0
+Andreessen Horowitz,Cybersecurity,10,192300000.0
+Andreessen Horowitz,E-Commerce,24,884745962.0
+Andreessen Horowitz,EdTech,1,15000000.0
+Andreessen Horowitz,Fintech,5,43500000.0
+Andreessen Horowitz,Gaming / Media,14,128687000.0
+Andreessen Horowitz,Hardware / Electronics,8,221750000.0
+Andreessen Horowitz,Internet / Web,37,1833869000.0
+Andreessen Horowitz,Mobile / Telecom,28,263383690.0
+Andreessen Horowitz,Other,7,16806000.0
+Andreessen Horowitz,Professional Services,1,1500000.0
+Andreessen Horowitz,PropTech / Real Estate,1,1700000.0
+Andreessen Horowitz,SaaS / Software,74,1159579462.0
+Andreessen Horowitz,Travel / Hospitality,5,122821000.0
+Battery Ventures,Advertising / Marketing,38,506800101.0
+Battery Ventures,Biotech / Healthcare,1,11300000.0
+Battery Ventures,CleanTech / Energy,12,173850000.0
+Battery Ventures,Cybersecurity,5,33500000.0
+Battery Ventures,E-Commerce,19,288091510.0
+Battery Ventures,EdTech,3,9650000.0
+Battery Ventures,Fintech,3,38000000.0
+Battery Ventures,Gaming / Media,4,26950000.0
+Battery Ventures,Hardware / Electronics,19,329496006.0
+Battery Ventures,Internet / Web,34,1708901000.0
+Battery Ventures,Logistics / Transport,1,1300000.0
+Battery Ventures,Mobile / Telecom,15,225985000.0
+Battery Ventures,Other,4,71650000.0
+Battery Ventures,Professional Services,1,2500000.0
+Battery Ventures,SaaS / Software,74,1096572998.0
+Battery Ventures,Sports / Fitness,3,16800000.0
+Battery Ventures,Travel / Hospitality,4,20700000.0
+Benchmark,Advertising / Marketing,21,371550000.0
+Benchmark,Biotech / Healthcare,5,76500000.0
+Benchmark,CleanTech / Energy,4,55400000.0
+Benchmark,Consumer Products,3,23500000.0
+Benchmark,Cybersecurity,6,47254000.0
+Benchmark,E-Commerce,7,106740000.0
+Benchmark,EdTech,3,65000000.0
+Benchmark,Fintech,10,102900000.0
+Benchmark,Gaming / Media,30,337569999.0
+Benchmark,Hardware / Electronics,20,518150000.0
+Benchmark,Internet / Web,55,809500000.0
+Benchmark,Logistics / Transport,7,347360000.0
+Benchmark,Mobile / Telecom,17,383000000.0
+Benchmark,Other,6,93160000.0
+Benchmark,Professional Services,2,20000000.0
+Benchmark,PropTech / Real Estate,1,32000000.0
+Benchmark,SaaS / Software,103,1885004158.0
+Benchmark,Travel / Hospitality,5,103600000.0
+Bessemer Venture Partners,Advertising / Marketing,24,221110002.0
+Bessemer Venture Partners,Biotech / Healthcare,20,366706102.0
+Bessemer Venture Partners,CleanTech / Energy,8,201880000.0
+Bessemer Venture Partners,Cybersecurity,10,223750000.0
+Bessemer Venture Partners,E-Commerce,12,273691200.0
+Bessemer Venture Partners,EdTech,9,125075000.0
+Bessemer Venture Partners,Fintech,5,55900000.0
+Bessemer Venture Partners,Gaming / Media,17,245209994.0
+Bessemer Venture Partners,Hardware / Electronics,26,495700000.0
+Bessemer Venture Partners,Internet / Web,53,1338650000.0
+Bessemer Venture Partners,Mobile / Telecom,21,297300000.0
+Bessemer Venture Partners,Other,3,33600000.0
+Bessemer Venture Partners,Professional Services,2,72000000.0
+Bessemer Venture Partners,PropTech / Real Estate,2,17300000.0
+Bessemer Venture Partners,SaaS / Software,66,982199900.0
+Bessemer Venture Partners,Travel / Hospitality,2,8000000.0
+Canaan Partners,Advertising / Marketing,16,166400000.0
+Canaan Partners,Biotech / Healthcare,61,1122090245.0
+Canaan Partners,CleanTech / Energy,1,2000000.0
+Canaan Partners,Cybersecurity,5,36429000.0
+Canaan Partners,E-Commerce,23,206821510.0
+Canaan Partners,Fintech,6,101010000.0
+Canaan Partners,Gaming / Media,15,238100000.0
+Canaan Partners,Hardware / Electronics,16,387500000.0
+Canaan Partners,Internet / Web,19,164900000.0
+Canaan Partners,Local Services,2,10800000.0
+Canaan Partners,Logistics / Transport,1,0.0
+Canaan Partners,Mobile / Telecom,16,318500000.0
+Canaan Partners,News / Publishing,4,50000000.0
+Canaan Partners,Other,6,67667000.0
+Canaan Partners,Professional Services,1,25000000.0
+Canaan Partners,PropTech / Real Estate,1,4450000.0
+Canaan Partners,SaaS / Software,40,567762900.0
+Canaan Partners,Travel / Hospitality,3,29600000.0
+DAG Ventures,Advertising / Marketing,18,252800000.0
+DAG Ventures,Biotech / Healthcare,18,605800000.0
+DAG Ventures,CleanTech / Energy,11,656410614.0
+DAG Ventures,Consumer Products,1,15000000.0
+DAG Ventures,Cybersecurity,3,33500000.0
+DAG Ventures,E-Commerce,3,65029000.0
+DAG Ventures,Fintech,6,78500000.0
+DAG Ventures,Gaming / Media,11,158250000.0
+DAG Ventures,Hardware / Electronics,21,517553573.0
+DAG Ventures,Internet / Web,27,496700000.0
+DAG Ventures,Logistics / Transport,1,5000000.0
+DAG Ventures,Mobile / Telecom,12,206000000.0
+DAG Ventures,News / Publishing,2,43500000.0
+DAG Ventures,Other,5,90500000.0
+DAG Ventures,Professional Services,1,10000000.0
+DAG Ventures,SaaS / Software,26,424550011.0
+DAG Ventures,Travel / Hospitality,3,78000000.0
+Digital Sky Technologies,Advertising / Marketing,2,9620000.0
+Digital Sky Technologies,E-Commerce,1,155000000.0
+Digital Sky Technologies,Gaming / Media,3,122187000.0
+Digital Sky Technologies,Internet / Web,5,2785000000.0
+Digital Sky Technologies,Travel / Hospitality,1,112000000.0
+Draper Fisher Jurvetson (DFJ),Advertising / Marketing,66,684510114.0
+Draper Fisher Jurvetson (DFJ),Biotech / Healthcare,30,301400985.0
+Draper Fisher Jurvetson (DFJ),CleanTech / Energy,42,807449992.0
+Draper Fisher Jurvetson (DFJ),Cybersecurity,8,117800000.0
+Draper Fisher Jurvetson (DFJ),E-Commerce,17,258437326.0
+Draper Fisher Jurvetson (DFJ),EdTech,1,1000000.0
+Draper Fisher Jurvetson (DFJ),Fintech,5,46840575.0
+Draper Fisher Jurvetson (DFJ),Gaming / Media,21,138720447.0
+Draper Fisher Jurvetson (DFJ),Hardware / Electronics,52,639434244.0
+Draper Fisher Jurvetson (DFJ),Internet / Web,85,1188261273.0
+Draper Fisher Jurvetson (DFJ),Logistics / Transport,9,243651000.0
+Draper Fisher Jurvetson (DFJ),Mobile / Telecom,33,391740000.0
+Draper Fisher Jurvetson (DFJ),Other,22,222517843.0
+Draper Fisher Jurvetson (DFJ),Professional Services,2,11918457.0
+Draper Fisher Jurvetson (DFJ),PropTech / Real Estate,5,93168782.0
+Draper Fisher Jurvetson (DFJ),SaaS / Software,60,596899864.0
+Draper Fisher Jurvetson (DFJ),Sports / Fitness,1,4200000.0
+Draper Fisher Jurvetson (DFJ),Travel / Hospitality,1,2700000.0
+Foundation Capital,Advertising / Marketing,16,160365212.0
+Foundation Capital,Biotech / Healthcare,3,50500000.0
+Foundation Capital,CleanTech / Energy,28,558560000.0
+Foundation Capital,Consumer Products,1,15000000.0
+Foundation Capital,Cybersecurity,8,68300000.0
+Foundation Capital,E-Commerce,8,263305435.0
+Foundation Capital,EdTech,2,50000000.0
+Foundation Capital,Fintech,6,208500000.0
+Foundation Capital,Gaming / Media,3,26500000.0
+Foundation Capital,Hardware / Electronics,17,222111919.0
+Foundation Capital,Internet / Web,25,417480000.0
+Foundation Capital,Mobile / Telecom,12,235250000.0
+Foundation Capital,Other,7,136659000.0
+Foundation Capital,Professional Services,2,21700000.0
+Foundation Capital,SaaS / Software,63,876047491.0
+General Catalyst Partners,Advertising / Marketing,18,198600000.0
+General Catalyst Partners,Biotech / Healthcare,13,248561836.0
+General Catalyst Partners,CleanTech / Energy,9,272059992.0
+General Catalyst Partners,Cybersecurity,7,127210000.0
+General Catalyst Partners,E-Commerce,17,232050000.0
+General Catalyst Partners,EdTech,1,1600000.0
+General Catalyst Partners,Fintech,2,8000000.0
+General Catalyst Partners,Gaming / Media,19,299500000.0
+General Catalyst Partners,Hardware / Electronics,2,8000000.0
+General Catalyst Partners,Internet / Web,29,376967283.0
+General Catalyst Partners,Mobile / Telecom,30,362240050.0
+General Catalyst Partners,Other,8,67069107.0
+General Catalyst Partners,Professional Services,4,41000000.0
+General Catalyst Partners,SaaS / Software,72,1203700000.0
+General Catalyst Partners,Sports / Fitness,2,9400000.0
+General Catalyst Partners,Travel / Hospitality,8,226900000.0
+Goldman Sachs,Advertising / Marketing,7,168400000.0
+Goldman Sachs,Biotech / Healthcare,8,497000000.0
+Goldman Sachs,CleanTech / Energy,10,630900000.0
+Goldman Sachs,Cybersecurity,12,893000000.0
+Goldman Sachs,E-Commerce,4,398175009.0
+Goldman Sachs,EdTech,1,110000000.0
+Goldman Sachs,Fintech,9,225000000.0
+Goldman Sachs,Gaming / Media,5,269470000.0
+Goldman Sachs,Hardware / Electronics,14,305624460.0
+Goldman Sachs,Internet / Web,24,2188400000.0
+Goldman Sachs,Logistics / Transport,3,207000000.0
+Goldman Sachs,Mobile / Telecom,13,355500000.0
+Goldman Sachs,News / Publishing,4,335299000.0
+Goldman Sachs,Other,7,134160000.0
+Goldman Sachs,SaaS / Software,35,1179200000.0
+Greylock Partners,Advertising / Marketing,22,210740000.0
+Greylock Partners,Biotech / Healthcare,6,98850000.0
+Greylock Partners,CleanTech / Energy,5,175500000.0
+Greylock Partners,Cybersecurity,13,151400000.0
+Greylock Partners,E-Commerce,16,221589474.0
+Greylock Partners,EdTech,6,91050000.0
+Greylock Partners,Fintech,5,104500000.0
+Greylock Partners,Gaming / Media,24,237609200.0
+Greylock Partners,Government / Non-profit,2,7900000.0
+Greylock Partners,Hardware / Electronics,22,494400000.0
+Greylock Partners,Internet / Web,52,1671488176.0
+Greylock Partners,Logistics / Transport,1,25000000.0
+Greylock Partners,Mobile / Telecom,13,141700000.0
+Greylock Partners,News / Publishing,5,43500000.0
+Greylock Partners,Other,8,60200000.0
+Greylock Partners,PropTech / Real Estate,4,76500000.0
+Greylock Partners,SaaS / Software,99,1972931350.0
+Greylock Partners,Travel / Hospitality,4,125200000.0
+Highland Capital Partners,Advertising / Marketing,19,271620000.0
+Highland Capital Partners,Biotech / Healthcare,31,610668043.0
+Highland Capital Partners,CleanTech / Energy,1,48000000.0
+Highland Capital Partners,Consumer Products,1,9000000.0
+Highland Capital Partners,Cybersecurity,11,161810000.0
+Highland Capital Partners,E-Commerce,30,495513316.0
+Highland Capital Partners,EdTech,4,83600000.0
+Highland Capital Partners,Fintech,2,15000000.0
+Highland Capital Partners,Gaming / Media,16,206265000.0
+Highland Capital Partners,Hardware / Electronics,15,301950002.0
+Highland Capital Partners,Internet / Web,27,299115000.0
+Highland Capital Partners,Local Services,2,33500000.0
+Highland Capital Partners,Mobile / Telecom,17,443900000.0
+Highland Capital Partners,News / Publishing,1,28700000.0
+Highland Capital Partners,Other,10,75420000.0
+Highland Capital Partners,PropTech / Real Estate,1,6368782.0
+Highland Capital Partners,SaaS / Software,37,588299000.0
+Highland Capital Partners,Travel / Hospitality,3,25310692.0
+Index Ventures,Advertising / Marketing,23,392111200.0
+Index Ventures,Biotech / Healthcare,26,396566199.0
+Index Ventures,CleanTech / Energy,10,222931282.0
+Index Ventures,Cybersecurity,3,114500000.0
+Index Ventures,E-Commerce,44,803385390.0
+Index Ventures,Fintech,10,140937070.0
+Index Ventures,Gaming / Media,22,466940864.0
+Index Ventures,Hardware / Electronics,6,116440000.0
+Index Ventures,Internet / Web,44,478437899.0
+Index Ventures,Logistics / Transport,1,2557400.0
+Index Ventures,Mobile / Telecom,18,268840667.0
+Index Ventures,News / Publishing,4,145500000.0
+Index Ventures,Other,10,84180000.0
+Index Ventures,Professional Services,1,0.0
+Index Ventures,SaaS / Software,58,1240879789.0
+Index Ventures,Travel / Hospitality,14,182727822.0
+Insight Venture Partners,Advertising / Marketing,4,215000000.0
+Insight Venture Partners,Biotech / Healthcare,2,0.0
+Insight Venture Partners,E-Commerce,8,418900000.0
+Insight Venture Partners,EdTech,7,191900002.0
+Insight Venture Partners,Fintech,2,68000000.0
+Insight Venture Partners,Gaming / Media,4,52588928.0
+Insight Venture Partners,Hardware / Electronics,4,59900000.0
+Insight Venture Partners,Internet / Web,10,530800000.0
+Insight Venture Partners,Mobile / Telecom,4,51100000.0
+Insight Venture Partners,News / Publishing,3,150000000.0
+Insight Venture Partners,Other,2,9000000.0
+Insight Venture Partners,SaaS / Software,31,1344057640.0
+Insight Venture Partners,Travel / Hospitality,3,35000000.0
+Institutional Venture Partners,Advertising / Marketing,10,233600000.0
+Institutional Venture Partners,Cybersecurity,2,112000000.0
+Institutional Venture Partners,E-Commerce,5,143000000.0
+Institutional Venture Partners,Fintech,6,140625000.0
+Institutional Venture Partners,Gaming / Media,8,282387000.0
+Institutional Venture Partners,Hardware / Electronics,5,221700000.0
+Institutional Venture Partners,Internet / Web,12,462800000.0
+Institutional Venture Partners,Mobile / Telecom,8,290000000.0
+Institutional Venture Partners,Other,1,13500000.0
+Institutional Venture Partners,Professional Services,1,66000000.0
+Institutional Venture Partners,SaaS / Software,20,745275000.0
+Institutional Venture Partners,Travel / Hospitality,4,445000000.0
+Intel Capital,Advertising / Marketing,31,343700000.0
+Intel Capital,Biotech / Healthcare,18,514509000.0
+Intel Capital,CleanTech / Energy,11,363100000.0
+Intel Capital,Cybersecurity,15,330600000.0
+Intel Capital,E-Commerce,21,379706800.0
+Intel Capital,EdTech,2,7500000.0
+Intel Capital,Fintech,8,142598530.0
+Intel Capital,Gaming / Media,36,496854083.0
+Intel Capital,Hardware / Electronics,89,1251047688.0
+Intel Capital,Internet / Web,36,468810760.0
+Intel Capital,Logistics / Transport,3,1000000.0
+Intel Capital,Mobile / Telecom,58,745093999.0
+Intel Capital,Other,16,295325617.0
+Intel Capital,Professional Services,2,16175000.0
+Intel Capital,SaaS / Software,177,2246179997.0
+Intel Capital,Travel / Hospitality,4,24850000.0
+Khosla Ventures,Advertising / Marketing,27,260582000.0
+Khosla Ventures,Biotech / Healthcare,14,216900000.0
+Khosla Ventures,CleanTech / Energy,66,1894270000.0
+Khosla Ventures,Cybersecurity,8,132540000.0
+Khosla Ventures,E-Commerce,5,50335000.0
+Khosla Ventures,EdTech,2,1000000.0
+Khosla Ventures,Fintech,3,36900000.0
+Khosla Ventures,Gaming / Media,7,148000000.0
+Khosla Ventures,Hardware / Electronics,25,369639000.0
+Khosla Ventures,Internet / Web,17,172770000.0
+Khosla Ventures,Local Services,2,10800000.0
+Khosla Ventures,Mobile / Telecom,26,303673000.0
+Khosla Ventures,News / Publishing,1,10500000.0
+Khosla Ventures,Other,5,16350000.0
+Khosla Ventures,Professional Services,1,5800000.0
+Khosla Ventures,SaaS / Software,33,522031668.0
+Khosla Ventures,Travel / Hospitality,2,4400000.0
+Kleiner Perkins Caufield & Byers,Advertising / Marketing,19,190658165.0
+Kleiner Perkins Caufield & Byers,Biotech / Healthcare,94,2307058800.0
+Kleiner Perkins Caufield & Byers,CleanTech / Energy,58,2714224992.0
+Kleiner Perkins Caufield & Byers,Cybersecurity,25,492137194.0
+Kleiner Perkins Caufield & Byers,E-Commerce,23,605975000.0
+Kleiner Perkins Caufield & Byers,EdTech,5,74400000.0
+Kleiner Perkins Caufield & Byers,Fintech,5,53810000.0
+Kleiner Perkins Caufield & Byers,Gaming / Media,26,969600000.0
+Kleiner Perkins Caufield & Byers,Hardware / Electronics,34,603887111.0
+Kleiner Perkins Caufield & Byers,Internet / Web,51,1969478397.0
+Kleiner Perkins Caufield & Byers,Logistics / Transport,11,616360000.0
+Kleiner Perkins Caufield & Byers,Mobile / Telecom,43,641434867.0
+Kleiner Perkins Caufield & Byers,News / Publishing,7,204000000.0
+Kleiner Perkins Caufield & Byers,Other,18,263619000.0
+Kleiner Perkins Caufield & Byers,Professional Services,3,66000000.0
+Kleiner Perkins Caufield & Byers,PropTech / Real Estate,1,1700000.0
+Kleiner Perkins Caufield & Byers,SaaS / Software,49,983077968.0
+Kleiner Perkins Caufield & Byers,Travel / Hospitality,2,20500000.0
+Lightspeed Venture Partners,Advertising / Marketing,43,484393194.0
+Lightspeed Venture Partners,Biotech / Healthcare,8,190100000.0
+Lightspeed Venture Partners,CleanTech / Energy,9,322750000.0
+Lightspeed Venture Partners,Consumer Products,1,10000000.0
+Lightspeed Venture Partners,Cybersecurity,8,76654000.0
+Lightspeed Venture Partners,E-Commerce,28,1243820000.0
+Lightspeed Venture Partners,EdTech,3,36750000.0
+Lightspeed Venture Partners,Fintech,3,35500000.0
+Lightspeed Venture Partners,Gaming / Media,9,111200000.0
+Lightspeed Venture Partners,Hardware / Electronics,34,560946311.0
+Lightspeed Venture Partners,Internet / Web,35,471750000.0
+Lightspeed Venture Partners,Mobile / Telecom,18,280235000.0
+Lightspeed Venture Partners,News / Publishing,5,34750000.0
+Lightspeed Venture Partners,Other,8,154500000.0
+Lightspeed Venture Partners,Professional Services,1,5100000.0
+Lightspeed Venture Partners,SaaS / Software,65,984180006.0
+Lightspeed Venture Partners,Travel / Hospitality,2,51500000.0
+Menlo Ventures,Advertising / Marketing,25,352705000.0
+Menlo Ventures,Biotech / Healthcare,2,12000000.0
+Menlo Ventures,Cybersecurity,10,116467194.0
+Menlo Ventures,E-Commerce,14,438500000.0
+Menlo Ventures,EdTech,2,10100000.0
+Menlo Ventures,Fintech,4,31810000.0
+Menlo Ventures,Gaming / Media,12,172397200.0
+Menlo Ventures,Hardware / Electronics,36,526620000.0
+Menlo Ventures,Internet / Web,38,518000000.0
+Menlo Ventures,Logistics / Transport,1,37000000.0
+Menlo Ventures,Mobile / Telecom,31,335277338.0
+Menlo Ventures,News / Publishing,1,3000000.0
+Menlo Ventures,Other,5,110543226.0
+Menlo Ventures,SaaS / Software,58,746470006.0
+Menlo Ventures,Travel / Hospitality,3,19700000.0
+New Enterprise Associates,Advertising / Marketing,38,749399993.0
+New Enterprise Associates,Biotech / Healthcare,101,2663401481.0
+New Enterprise Associates,CleanTech / Energy,33,1312183000.0
+New Enterprise Associates,E-Commerce,20,481204009.0
+New Enterprise Associates,EdTech,10,106250000.0
+New Enterprise Associates,Fintech,1,1750000.0
+New Enterprise Associates,Gaming / Media,14,246500000.0
+New Enterprise Associates,Government / Non-profit,1,9000000.0
+New Enterprise Associates,Hardware / Electronics,56,1159369380.0
+New Enterprise Associates,Internet / Web,56,1194158397.0
+New Enterprise Associates,Logistics / Transport,1,150000000.0
+New Enterprise Associates,Mobile / Telecom,40,615953630.0
+New Enterprise Associates,News / Publishing,4,48300000.0
+New Enterprise Associates,Other,11,138599800.0
+New Enterprise Associates,Professional Services,3,69000000.0
+New Enterprise Associates,PropTech / Real Estate,2,14000000.0
+New Enterprise Associates,SaaS / Software,110,2119020000.0
+New Enterprise Associates,Sports / Fitness,2,13000000.0
+New Enterprise Associates,Travel / Hospitality,7,57259387.0
+Norwest Venture Partners,Advertising / Marketing,19,322800000.0
+Norwest Venture Partners,Biotech / Healthcare,7,115450000.0
+Norwest Venture Partners,CleanTech / Energy,1,37000000.0
+Norwest Venture Partners,Cybersecurity,9,120570000.0
+Norwest Venture Partners,E-Commerce,12,377800000.0
+Norwest Venture Partners,EdTech,2,30000000.0
+Norwest Venture Partners,Fintech,9,144860000.0
+Norwest Venture Partners,Gaming / Media,6,178500000.0
+Norwest Venture Partners,Hardware / Electronics,22,341502774.0
+Norwest Venture Partners,Internet / Web,36,688100000.0
+Norwest Venture Partners,Mobile / Telecom,17,281500000.0
+Norwest Venture Partners,Other,5,62900000.0
+Norwest Venture Partners,Professional Services,1,20000000.0
+Norwest Venture Partners,SaaS / Software,68,981109900.0
+Norwest Venture Partners,Travel / Hospitality,4,37500000.0
+Oak Investment Partners,Advertising / Marketing,18,477486727.0
+Oak Investment Partners,Biotech / Healthcare,10,537000000.0
+Oak Investment Partners,CleanTech / Energy,19,645100000.0
+Oak Investment Partners,Cybersecurity,3,40000000.0
+Oak Investment Partners,E-Commerce,14,421305435.0
+Oak Investment Partners,Fintech,3,50600000.0
+Oak Investment Partners,Gaming / Media,6,121500000.0
+Oak Investment Partners,Hardware / Electronics,21,442920000.0
+Oak Investment Partners,Internet / Web,14,844893366.0
+Oak Investment Partners,Logistics / Transport,1,84000000.0
+Oak Investment Partners,Mobile / Telecom,12,309300000.0
+Oak Investment Partners,News / Publishing,7,425898000.0
+Oak Investment Partners,Other,13,427859000.0
+Oak Investment Partners,Professional Services,1,4000000.0
+Oak Investment Partners,SaaS / Software,20,370770000.0
+Oak Investment Partners,Sports / Fitness,1,22000000.0
+Oak Investment Partners,Travel / Hospitality,1,58000000.0
+Redpoint Ventures,Advertising / Marketing,44,543532360.0
+Redpoint Ventures,CleanTech / Energy,4,46675000.0
+Redpoint Ventures,Cybersecurity,3,32000000.0
+Redpoint Ventures,E-Commerce,15,111150000.0
+Redpoint Ventures,EdTech,8,151100000.0
+Redpoint Ventures,Gaming / Media,25,394330000.0
+Redpoint Ventures,Hardware / Electronics,14,446220000.0
+Redpoint Ventures,Internet / Web,19,162950000.0
+Redpoint Ventures,Mobile / Telecom,34,1288840690.0
+Redpoint Ventures,News / Publishing,7,34760000.0
+Redpoint Ventures,Other,7,167499000.0
+Redpoint Ventures,SaaS / Software,61,1054130000.0
+Redpoint Ventures,Travel / Hospitality,8,483000000.0
+Sequoia Capital,Advertising / Marketing,47,491970000.0
+Sequoia Capital,Biotech / Healthcare,17,303760000.0
+Sequoia Capital,CleanTech / Energy,12,238770000.0
+Sequoia Capital,Cybersecurity,19,289980000.0
+Sequoia Capital,E-Commerce,17,241629000.0
+Sequoia Capital,EdTech,8,58250000.0
+Sequoia Capital,Fintech,10,188250000.0
+Sequoia Capital,Gaming / Media,41,501723810.0
+Sequoia Capital,Hardware / Electronics,31,584337000.0
+Sequoia Capital,Internet / Web,83,1468650000.0
+Sequoia Capital,Local Services,1,8500000.0
+Sequoia Capital,Mobile / Telecom,69,894132023.0
+Sequoia Capital,News / Publishing,1,180000000.0
+Sequoia Capital,Other,17,207000000.0
+Sequoia Capital,Professional Services,3,15500000.0
+Sequoia Capital,SaaS / Software,121,2218209277.0
+Sequoia Capital,Travel / Hospitality,9,286671000.0
+US Venture Partners,Advertising / Marketing,26,250337999.0
+US Venture Partners,Biotech / Healthcare,34,1002943102.0
+US Venture Partners,CleanTech / Energy,7,84950000.0
+US Venture Partners,Cybersecurity,8,68100000.0
+US Venture Partners,E-Commerce,6,246000000.0
+US Venture Partners,Gaming / Media,8,23880000.0
+US Venture Partners,Hardware / Electronics,45,808255479.0
+US Venture Partners,Internet / Web,32,460350000.0
+US Venture Partners,Mobile / Telecom,17,276820000.0
+US Venture Partners,News / Publishing,2,15000000.0
+US Venture Partners,Other,3,23299000.0
+US Venture Partners,SaaS / Software,43,562899998.0
+VantagePoint Capital Partners,Advertising / Marketing,18,396950000.0
+VantagePoint Capital Partners,Biotech / Healthcare,11,225984000.0
+VantagePoint Capital Partners,CleanTech / Energy,29,1567697282.0
+VantagePoint Capital Partners,Cybersecurity,3,24000000.0
+VantagePoint Capital Partners,E-Commerce,1,16600000.0
+VantagePoint Capital Partners,Fintech,1,10000000.0
+VantagePoint Capital Partners,Gaming / Media,3,78000000.0
+VantagePoint Capital Partners,Hardware / Electronics,24,651415373.0
+VantagePoint Capital Partners,Internet / Web,5,42500000.0
+VantagePoint Capital Partners,Logistics / Transport,2,85000000.0
+VantagePoint Capital Partners,Mobile / Telecom,7,220050000.0
+VantagePoint Capital Partners,News / Publishing,2,4276568.0
+VantagePoint Capital Partners,Other,8,69770000.0
+VantagePoint Capital Partners,SaaS / Software,11,195350000.0
+Venrock,Advertising / Marketing,21,297290000.0
+Venrock,Biotech / Healthcare,58,1493914070.0
+Venrock,CleanTech / Energy,9,289600000.0
+Venrock,Cybersecurity,3,34270000.0
+Venrock,E-Commerce,14,125100000.0
+Venrock,EdTech,1,8000000.0
+Venrock,Fintech,3,42025000.0
+Venrock,Gaming / Media,4,11550000.0
+Venrock,Hardware / Electronics,31,592900000.0
+Venrock,Internet / Web,26,264800000.0
+Venrock,Mobile / Telecom,15,95503000.0
+Venrock,Other,2,19020000.0
+Venrock,SaaS / Software,48,565441090.0
