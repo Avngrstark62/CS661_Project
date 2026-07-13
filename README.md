@@ -176,9 +176,15 @@ and walkthrough recordings) live under [`deliverables/`](deliverables/).
 
 | Member | Roll Number | Responsibility |
 |--------|-------------|----------------|
-| *TODO: Add name* | *TODO* | System architecture, data pipeline, dashboard framework |
-| *TODO: Add name* | *TODO* | Visualization design, interactivity, UX/CSS |
-| *TODO: Add name* | *TODO* | Data analysis, insights generation, report writing |
+| Shamit Kamble | 228070999 | Data Processing |
+| Moin Khan | 251090413 | Data Processing |
+| Priyanshu Gupta | 220826 | Analytics Visualization Development |
+| Harsh Bhati | 200408 | Analytics Visualization Development |
+| Abhijeet Singh Thakur | 220029 | Application Development and Integration |
+| Yashwanth Naik | 231046 | Application Development and Integration |
+| Sai Dishanth | 220282 | User Interface Design and Styling |
+| Lobsang Dhiki | 251110045 | User Interface Design and Styling |
+| Lohit | 210564 | Testing and Deployment |
 
 > **Note:** Update this section with actual team member details before submission.
 
