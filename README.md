@@ -186,8 +186,6 @@ and walkthrough recordings) live under [`deliverables/`](deliverables/).
 | Lobsang Dhiki | 251110045 | User Interface Design and Styling |
 | Lohit | 210564 | Testing and Deployment |
 
-> **Note:** Update this section with actual team member details before submission.
-
 ---
 
 ## License
