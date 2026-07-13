@@ -180,7 +180,8 @@ def process_companies(objects: pd.DataFrame) -> pd.DataFrame:
 
     # Extract founding year
     companies["founded_year"] = companies["founded_at"].dt.year
-
+     # ── FILTER: Keep only companies founded 1995–2013 ──
+    companies = companies[(companies["founded_year"] >= 1995) & (companies["founded_year"] <= 2013)].copy()
     # Map country codes to full names
     companies["country"] = companies["country_code"].map(COUNTRY_MAP)
     companies["country"] = companies["country"].fillna(
@@ -252,6 +253,8 @@ def process_funding_rounds(
     fr["raised_amount_usd"] = pd.to_numeric(fr["raised_amount_usd"], errors="coerce")
     fr["pre_money_valuation_usd"] = pd.to_numeric(fr["pre_money_valuation_usd"], errors="coerce")
     fr["post_money_valuation_usd"] = pd.to_numeric(fr["post_money_valuation_usd"], errors="coerce")
+    # ── FILTER: Keep only funding rounds 1995–2013 ──
+    fr = fr[(fr["funding_year"] >= 1995) & (fr["funding_year"] <= 2013)].copy()
 
     # Normalize round type names
     round_type_map = {
@@ -390,8 +393,13 @@ def process_offices(offices: pd.DataFrame) -> pd.DataFrame:
     off["longitude"] = pd.to_numeric(off["longitude"], errors="coerce")
 
     # Keep only valid coordinates
-    off = off[off["latitude"].notna() & off["longitude"].notna()].copy()
-
+    # off = off[off["latitude"].notna() & off["longitude"].notna()].copy()
+    # Keep only valid coordinates (non-null AND not (0,0))
+    off = off[
+        off["latitude"].notna() & 
+        off["longitude"].notna() &
+        ~((off["latitude"] == 0) & (off["longitude"] == 0))
+    ].copy()
     # Map country codes
     off["country"] = off["country_code"].map(COUNTRY_MAP).fillna(off["country_code"])
 
@@ -407,6 +415,52 @@ def create_aggregations(
 ):
     """Create pre-computed aggregation tables for fast dashboard loading."""
     print("\n📊 Creating aggregation tables...")
+    # ── Validation Function ──────────────────────────────────────────
+def validate_data(
+    companies: pd.DataFrame,
+    fr_enriched: pd.DataFrame,
+    investors: pd.DataFrame,
+    offices: pd.DataFrame
+) -> None:
+    """Run critical data quality checks. Raises AssertionError if any check fails."""
+    print("\n🔍 Running data validation...")
+
+    # 1. Duplicate company IDs
+    dup_companies = companies["id"].duplicated().sum()
+    assert dup_companies == 0, f"❌ Duplicate company IDs found: {dup_companies}"
+
+    # 2. Duplicate funding round IDs
+    dup_rounds = fr_enriched["funding_round_id"].duplicated().sum()
+    assert dup_rounds == 0, f"❌ Duplicate funding round IDs found: {dup_rounds}"
+
+    # 3. Orphan funding rounds (all have a valid company)
+    orphan_rounds = fr_enriched["name"].isna().sum()
+    assert orphan_rounds == 0, f"❌ Orphan funding rounds found: {orphan_rounds}"
+
+    # 4. Funding year range (should be 1995–2013 for this dataset)
+    min_year = fr_enriched["funding_year"].min()
+    max_year = fr_enriched["funding_year"].max()
+    assert min_year >= 1995, f"❌ Earliest funding year is {min_year} (< 1995)"
+    assert max_year <= 2013, f"❌ Latest funding year is {max_year} (> 2013)"
+
+    # 5. Funding amounts: non-negative and within reasonable bounds
+    neg_amounts = (fr_enriched["raised_amount_usd"] < 0).sum()
+    assert neg_amounts == 0, f"❌ Negative funding amounts found: {neg_amounts}"
+    huge = (fr_enriched["raised_amount_usd"] > 1e12).sum()
+    assert huge == 0, f"❌ Amounts > $1T found: {huge} (likely data errors)"
+
+    # 6. Founded years reasonable (1900–2020)
+    bad_founded = companies[
+        (companies["founded_year"] < 1900) | (companies["founded_year"] > 2020)
+    ].shape[0]
+    assert bad_founded == 0, f"❌ Companies with invalid founded_year: {bad_founded}"
+
+    # 7. Geo: no (0,0) coordinates (already filtered, but double-check)
+    invalid_coords = offices[(offices["latitude"] == 0) & (offices["longitude"] == 0)].shape[0]
+    assert invalid_coords == 0, f"❌ Offices with (0,0) coordinates: {invalid_coords}"
+
+    print("✅ All validation checks passed.")
+
 
     # ── 1) Sector Summary ──
     funded_companies = companies[companies["funding_total_usd"] > 0]
@@ -557,7 +611,8 @@ def main():
 
     # Step 7: Create aggregation tables
     create_aggregations(companies, fr_enriched, investors)
-
+    # Step 8: Run validation
+    validate_data(companies, fr_enriched, investors, offices)
     # ── Summary ──
     print("\n" + "=" * 60)
     print("📋 PREPROCESSING COMPLETE")
@@ -571,7 +626,7 @@ def main():
     print(f"  ─────────────────────────")
     print(f"  TOTAL RECORDS:   {total:>10,}")
     print("=" * 60)
-    print(f"\n✅ DATASET VERIFIED ✓")
+    print(f"\n✅DATASET VERIFIED ")
     print(f"Source: https://www.kaggle.com/datasets/justinas/startup-investments")
     print(f"All processed files saved to: {DATA_PROCESSED}")
 
