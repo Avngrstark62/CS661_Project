@@ -151,27 +151,6 @@ CS661/
 
 ---
 
-## Testing & QA
-
-The application ships with an automated end-to-end test suite that drives the live app in a
-headless browser and verifies all seven pages, the global year filter, search/filter
-behaviour, and the interactive chart features:
-
-```bash
-# Terminal 1 — start the app
-python app.py
-
-# Terminal 2 — run the suite (writes qa/qa_results.txt)
-pip install playwright && playwright install chromium
-python qa/qa_smoke_test.py
-```
-
-See [`qa/QA_REPORT.md`](qa/QA_REPORT.md) for the full audit, data-validation results, and
-the list of issues fixed. Compiled deliverables (report PDF, slide deck, fresh screenshots,
-and walkthrough recordings) live under [`deliverables/`](deliverables/).
-
----
-
 ## Team
 
 | Member | Roll Number | Responsibility |
